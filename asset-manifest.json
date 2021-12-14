@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.2a6c976e.chunk.css",
+    "main.js": "/PortFolio/static/js/main.574aca71.chunk.js",
+    "main.js.map": "/PortFolio/static/js/main.574aca71.chunk.js.map",
+    "runtime-main.js": "/PortFolio/static/js/runtime-main.e0e4def3.js",
+    "runtime-main.js.map": "/PortFolio/static/js/runtime-main.e0e4def3.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/PortFolio/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e814e3ae.chunk.js": "/PortFolio/static/js/2.e814e3ae.chunk.js",
+    "static/js/2.e814e3ae.chunk.js.map": "/PortFolio/static/js/2.e814e3ae.chunk.js.map",
+    "static/js/3.c8832364.chunk.js": "/PortFolio/static/js/3.c8832364.chunk.js",
+    "static/js/3.c8832364.chunk.js.map": "/PortFolio/static/js/3.c8832364.chunk.js.map",
+    "index.html": "/PortFolio/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/PortFolio/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.2a6c976e.chunk.css.map": "/PortFolio/static/css/main.2a6c976e.chunk.css.map",
+    "static/js/2.e814e3ae.chunk.js.LICENSE.txt": "/PortFolio/static/js/2.e814e3ae.chunk.js.LICENSE.txt",
+    "static/media/carousal02.15413814.jfif": "/PortFolio/static/media/carousal02.15413814.jfif",
+    "static/media/carousal03.421d1da4.jfif": "/PortFolio/static/media/carousal03.421d1da4.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e4def3.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e814e3ae.chunk.js",
+    "static/css/main.2a6c976e.chunk.css",
+    "static/js/main.574aca71.chunk.js"
+  ]
+}
